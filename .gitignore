@@ -1,0 +1,21 @@
+# emacs things
+*~
+\#*\#
+
+# Patch things
+*.patch
+*.diff
+*.rej
+*.orig
+
+# Interdiffs
+interdiff*.txt
+
+# Temporary files
+tmp*
+
+# IDE settings
+.settings
+.project
+.buildpath
+.idea
